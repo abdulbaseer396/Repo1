@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C8B-8059
+
+ Directory of C:\Users\Mohammed Abdul Basee\Desktop\GIT\MyProject
+
+09/26/2018  11:04 PM    <DIR>          .
+09/26/2018  11:04 PM    <DIR>          ..
+09/26/2018  11:04 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  658,554,019,840 bytes free
